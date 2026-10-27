@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="白猫插画">
+  <defs>
+    <linearGradient id="bgW" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#dce6e7"/>
+      <stop offset="1" stop-color="#aebec0"/>
+    </linearGradient>
+    <linearGradient id="furW" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fffdf8"/>
+      <stop offset="1" stop-color="#dcd5c9"/>
+    </linearGradient>
+    <filter id="softW"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="480" height="480" fill="url(#bgW)"/>
+  <circle cx="83" cy="83" r="73" fill="#f7f3e7" opacity=".2" filter="url(#softW)"/>
+  <path d="M0 352c91-23 160-8 233 11 99 27 174 17 247-20v137H0Z" fill="#7f9294" opacity=".29"/>
+  <path d="M54 53h103v135H54z" fill="#f8fbf6" opacity=".12"/>
+  <path d="M105 53v135M54 121h103" stroke="#5f7477" stroke-width="4" opacity=".17"/>
+  <path d="M333 75c29-18 52-15 69 2-12 25-36 32-69-2Z" fill="#6e8885" opacity=".28"/>
+  <ellipse cx="241" cy="400" rx="137" ry="27" fill="#526a6c" opacity=".2" filter="url(#softW)"/>
+  <path d="M171 334c-28-32-37-78-19-119 18-43 53-66 100-67 47-1 84 22 100 65 19 50 2 95-42 121-41 24-107 26-139 0Z" fill="url(#furW)"/>
+  <path d="M170 211 157 126l59 39a135 135 0 0 1 65 1l62-40-18 85c26 36 28 82 4 117-26 38-72 53-119 43-61-13-94-65-82-119 3-17 15-40 42-41Z" fill="#f8f4eb"/>
+  <path d="M172 150c10 11 19 26 23 44-19-2-33-14-43-28Z" fill="#d9d0c4"/>
+  <path d="M327 150c-11 11-20 27-23 45 19-3 33-15 43-29Z" fill="#c2bbb1"/>
+  <path d="M248 160c10 6 20 8 31 7l-12 30-32 3Z" fill="#d8d1c6" opacity=".65"/>
+  <path d="M207 233c12-8 27-8 39 1M281 234c13-9 28-8 39 1" fill="none" stroke="#8c8580" stroke-width="5.5" stroke-linecap="round"/>
+  <circle cx="227" cy="245" r="8" fill="#7da4a5"/>
+  <circle cx="303" cy="245" r="8" fill="#7da4a5"/>
+  <ellipse cx="227" cy="245" rx="2" ry="6" fill="#253638"/>
+  <ellipse cx="303" cy="245" rx="2" ry="6" fill="#253638"/>
+  <path d="m258 279-7 8 8 6 8-6Z" fill="#c78c87"/>
+  <path d="M256 294c-8 7-16 9-24 6M258 294c8 7 16 9 24 6" fill="none" stroke="#aaa29a" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M206 284c-44-3-72 4-93 14M207 298c-39 1-66 10-84 21M312 283c44-1 73 7 91 18M312 298c39 2 66 12 82 23" fill="none" stroke="#f7f0e5" stroke-width="2.8" stroke-linecap="round" opacity=".9"/>
+  <path d="M322 340c56 16 75-15 62-42-7-15-20-20-31-14" fill="none" stroke="#e7e1d7" stroke-width="21" stroke-linecap="round"/>
+  <path d="M196 242c5-5 10-5 15 0M286 242c5-5 10-5 15 0" fill="none" stroke="#c9c1b8" stroke-width="2" stroke-linecap="round"/>
+</svg>
